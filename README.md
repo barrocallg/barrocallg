@@ -6,9 +6,9 @@
 </head>
 <body>
 
-<h1>👋 Olá, eu sou um estudante de programação</h1>
+<h1> Olá, sou Leonardo Gracioli Barrocal </h1>
 
-<p>🎓 Estudo na FIAP</p>
+<p>Sou estudando da FIAP-Paulista </p>
 <p>💻 Tenho 17 anos e estou começando na programação</p>
 
 <h2>🚀 Sobre mim</h2>
