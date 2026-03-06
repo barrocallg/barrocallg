@@ -9,19 +9,19 @@
 <h1> Olá, sou Leonardo Gracioli Barrocal </h1>
 
 <p>Sou estudando da FIAP-Paulista </p>
-<p>💻 Tenho 17 anos e estou começando na programação</p>
+<p> Tenho 17 anos e estou começando na programação</p>
 
-<h2>🚀 Sobre mim</h2>
+<h2> Sobre mim</h2>
 <p>
 Estou aprendendo lógica de programação, Git e GitHub e desenvolvendo meus primeiros projetos.
 </p>
 
-<h2>🎯 Objetivo</h2>
+<h2> Objetivo</h2>
 <p>
 Evoluir como desenvolvedor e construir projetos para meu portfólio.
 </p>
 
-<p>⭐ Sempre aprendendo algo novo.</p>
+<p> Sempre aprendendo algo novo.</p>
 
 </body>
 </html>
